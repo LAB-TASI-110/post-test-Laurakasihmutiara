@@ -1,0 +1,15 @@
+saya ingin membuat sebuah sistem yang mendukung operasional kafetari 
+IT del dimana kafetaria didel memiliki banyak menu makanan  dan minuman
+ saya ingin anda membantu saya kalau ada pembeli yang mau beli pre oder 
+ lalu jamnya diyang dia inginkan lalu ada juga pembeli dapat juga membeli 
+ langsung kekafenyaa lalu saat pembayaran hanya ada sistem qris  atau 
+ e-wallet dari kasus ini saya ingin anda membantu saya sebagai ahli yang 
+ dapat membantu saya  mambuat code program yang mengunakan bahasa c yang 
+ akan dijalan pada aplikasi atau platfrom open visual studio code tidak ada
+  batasan yang harus dihindari dang lingkup pengerjaannya biasa saja karena 
+  ini merupakan tugas mandiri dari mata kuliah pemograman prosudural , namun 
+  tetap menggunakan standart kualitas dan keamanan mka dari itu bertindaklah 
+  sebagai ahli yang dapat mebantu saya sertakan juga input dan ouput yang dimana 
+  saya akan menjalankan code programnya pastikan tidak akan eror pada saat dirun  
+  dan buat juga langkah langkah kode program 
+yang menggunakan tipe data, stucrt, fungsi, array dan lain lain  

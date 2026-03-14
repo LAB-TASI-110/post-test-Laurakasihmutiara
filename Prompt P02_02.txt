@@ -1,0 +1,26 @@
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. 
+Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami 
+bagaimana kelompok barang dipisahkan. 
+Input:
+
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+dimana ada 22 PCS dasi sd
+ada 85 PCS gula
+ada 5 PCS rok pramuka
+ada  120 PCS minyak 
+dimana saya diminta membuat suatu program mampu menentukan total stok hanya untuk 
+kategori barang yang diminta, namun pasti akan memerlukan suatu kode suatu barang 
+saya ingin anda mengkategorikannya sembako dan keperluan sekolah lalu untuk jumlah 
+total data itu sesuai dengan inputan user yang dimana dapat menentukan seperti yang 
+saya bilang hanya total stok dari kategori barang yang diminta saya ingin ada menjadi
+seorang personal yang dapat membantu saya dalam menyelesaikan  persoalan ini maka 
+dari itu buatkan saya program bahasa c yang platrom atau aplikasi yang digunakan untuk 
+mengeksekusi suatu code yang nantinya anda berikan adalah open visual studio code, tidak
+ada batasan yang harus dihindari dan pasti standart kualitas dibutuhkan juga keamanan dan
+saya ingin anda juga memberikan input dan ouput yang dapat saya guna kan dalam memcoba
+apakah kode program sudah berjalan dengan baik anda juga buatkan langkah langkah dimana
+agar program dapat dibuat dengan baik dan tidak eror saat dirun dengan membuat kode program
+dengan tipe data, array, fungsi dan lain sebagainya  
+

@@ -1,0 +1,38 @@
+Suatu sore yang cukup sibuk di kampus, dua mahasiswa IT Del, Ucok dan Butet, sedang duduk di depan asrama sambil memandangi beberapa dus besar yang tergeletak di samping mereka. Setelah menyelesaikan minggu yang penuh dengan tugas kuliah dan praktikum, mereka akhirnya punya waktu untuk mengirimkan beberapa barang ke kampung halaman masing-masing.
+
+“Waduh, kalau kita kirim lewat jasa biasa mahal juga ya,” kata Butet sambil menimbang salah satu dus miliknya.
+
+Ucok kemudian tersenyum dan menunjuk sebuah brosur yang ia temukan di papan pengumuman kampus.
+
+“Tenang saja, Tet. Katanya ada jasa pengiriman baru namanya Del-Express. Sistemnya transparan dan perhitungannya otomatis,” ujar Ucok.
+
+Butet langsung terlihat tertarik. “Wah, cocok nih. Kita kan anak IT, masa masih pakai hitung manual!”
+
+Mereka pun berjalan menuju kantor layanan Del-Express yang berada tidak jauh dari kampus. Setibanya di sana, mereka melihat sebuah papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan.
+yang dimana memiliki kode kota, nama kota, ongkir kirim /kg dan keterangan barang yang dimana -MDN MEDAN 8000 DALAM PULAU
+-BLG BALIGE 5000 DA;AM PULAU
+-JKT JAKARTA 12000 LUAR PULAU
+-SBY SURABAYA 13000 LUAR PULAU
+Tidak jauh dari papan daftar ongkir, terdapat sebuah poster promo menarik yang
+ ditempel di dinding.
+JIKA TOTAL BERAT PENGIRIMMAN LEBIH DARI 1O KG DAPAT DISKON 10 PERSEN DAN PENGIRIMAN KEKOTA LUAR PULAU  DAPAT ASURANSI GRATIS
+Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan 
+ukuran dus yang mereka gunakan.Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.
+
+Input
+
+MDN
+5
+JKT
+3
+BLG
+4
+END 
+
+
+
+Output
+ Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh. 
+
+Dari persoalan diatas buat kan saya program bahasa c yang dimana sertakan juga input seperti yang ada disoal yang dimana platfrom yang digunakan untuk mengeksekusi program ini adalah aplikasi open visual studio code, tidak ada batasan  negatif yang harus dihindari karena ini merupakan tugas mandiri dari matakuliah pemograman prosudural dan lingkup pengerjaannya sesuai kan saja pada persoalan, namun tetap menggunakan kualitas dan keamanan . saya ingin anda bertindak sebagai personal yang membantu saya dalam pembuatan kode program yang dimana terdapat tipe data, aray, fungsi, dan kain sebagainya dan untuk itu sesuai semuanya dengan penjaran persoalan yang ada diatas  
+
